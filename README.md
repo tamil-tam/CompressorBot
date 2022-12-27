@@ -13,4 +13,4 @@
 - Its Running Without Db so Block /ban /Broadcast Feature is currently Not available.
 
 ### Fork Repo Then click on below button of ur fork repo.  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
