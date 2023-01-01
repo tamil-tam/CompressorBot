@@ -14,3 +14,5 @@
 
 ### Fork Repo Then click on below button of ur fork repo.  
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+..............
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
